@@ -1,0 +1,6 @@
+devel_space: /home/dzoyemarmand/tp_ros_2022/armand_wc/marker_visualizer/devel
+install: false
+install_space: /home/dzoyemarmand/tp_ros_2022/armand_wc/marker_visualizer/install
+profile: default
+source_space: /home/dzoyemarmand/tp_ros_2022/armand_wc/marker_visualizer/src
+workspace: /home/dzoyemarmand/tp_ros_2022/armand_wc/marker_visualizer
